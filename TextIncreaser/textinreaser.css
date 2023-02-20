@@ -1,0 +1,47 @@
+.card1 { 
+    height: 50%;
+    background-color:#95BDFF;
+    border:1px solid black;
+    border-radius:5px;
+    margin: 20px;
+}
+.container{
+    display: flex;
+}
+.card2 { 
+    height: 100%;
+    background-color:#95BDFF;
+    border:1px solid black;
+    border-radius:5px;
+    margin: 20px;
+}
+.card3 { 
+    height: 100%;
+    background-color:#95BDFF;
+    border:1px solid black;
+    border-radius:5px;
+    margin: 20px;
+}
+.card4 { 
+    height: 100%;
+    background-color:#95BDFF;
+    border:1px solid black;
+    border-radius:5px;
+    margin: 20px;
+}
+#button{
+    background-color:#5fcfd3;
+    font-size: 15px;
+    border-radius: 2px;
+    color: white;
+    font-weight: 500;
+    cursor: pointer;
+    justify-content: center;
+    text-align: center;
+}
+#size{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
